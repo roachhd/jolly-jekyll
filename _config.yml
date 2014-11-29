@@ -2,32 +2,3 @@ name: Jolly Jekyll
 markdown: kramdown
 pygments: true
 baseurl: /jolly-jekyll
-
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
-
-
-# Setup
-title:            Jolly Jekyll
-tagline:          'A Jekyll Christmas Theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme in a Christmas style. Made by <a href="https://twitter.com/mektball" target="_blank">@mektball</a>.'
-url:              http://katieball.me/hyde
-baseurl:          /hyde
-
-
-author:
-  name:           'Katie Ball'
-  url:            https://twitter.com/mektball
-
-
-paginate:         5
-
-
-# Custom vars
-version:          1.1.0
-
-
-github:
-  repo:           https://github.com/roachhd/jolly-jekyll
-
