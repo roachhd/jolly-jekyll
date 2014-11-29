@@ -1,4 +1,4 @@
 name: Jolly Jekyll
-markdown: kramdown
+markdown: redcarpet
 pygments: true
 baseurl: /jolly-jekyll
