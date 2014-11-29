@@ -1,0 +1,4 @@
+name: Jolly Jekyll
+markdown: kramdown
+pygments: true
+baseurl: /jolly-jekyll
